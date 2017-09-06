@@ -1,0 +1,30 @@
+{
+  "name": "aem-upload-install",
+  "version": "0.0.1",
+  "description": "Quick way to upload and install packages to AEM rather than going through the interface",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "p4": "^0.0.6"
+  },
+  "devDependencies": {
+    "sync-exec": "^0.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helmutgranda/aem-upload-install.git"
+  },
+  "keywords": [
+    "aem",
+    "install"
+  ],
+  "author": "Helmut Granda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helmutgranda/aem-upload-install/issues"
+  },
+  "homepage": "https://github.com/helmutgranda/aem-upload-install#readme"
+}
